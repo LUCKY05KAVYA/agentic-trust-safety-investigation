@@ -1,0 +1,9 @@
+langgraph>=0.2.0
+langchain-core
+langchain-groq
+instructor
+pydantic
+gradio>=5.0
+pillow
+python-dotenv
+groq
